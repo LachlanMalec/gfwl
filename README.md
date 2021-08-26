@@ -1,5 +1,5 @@
 # Games for Windows Live (GFWL)
-**What are these?** Working installers for Games For Windows Live software and services required by older games (such as Fallout 3).
+**What are these?** Working installers for GFWL software and services required by older games (such as Fallout 3).
 
 **How do I use them?** Simply download and run the installers as you need them.
 
